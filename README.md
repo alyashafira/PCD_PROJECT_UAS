@@ -13,7 +13,7 @@ PROJECT UAS
 Mean Square Error (MSE), Root Mean Squared Error (RMSE), dan Peak Signal-to-Noise Ratio (PSNR) merupakan contoh parameter yang biasa digunakan sebagai indikator untuk mengukur kemiripan dua buah citra. Parameter tsb sering digunakan untuk membandingkan hasil pengolahan citra dengan citra awal atau citra asli.
 
 
-**Persamaan yang digunakan untuk menghitung ketiga paramater tersebut adalah sebagai berikut:**
+:sparkles:**Persamaan yang digunakan untuk menghitung ketiga paramater tersebut adalah sebagai berikut:**
 <img width="318" alt="RUMUS_UAS" src="https://user-images.githubusercontent.com/56963083/126316153-7155e28e-fc54-4530-813e-994851aa3cb6.PNG">
 
 
